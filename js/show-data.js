@@ -1,10 +1,8 @@
 const data = {
   recipes:
-    "<h1>Recipes</h1> <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio maiores adipisci quibusdam repudiandae dolor vero placeat esse sit! Quibusdam saepe aperiam explicabo placeat optio, consequuntur nihil voluptatibus expedita quia vero perferendis, deserunt et incidunt eveniet temporibus doloremque possimus facilis.</p>",
+    "<h1>Recipes</h1> <p>Find and share everyday cooking inspiration on here. Discover recipes, cooks, videos, and how-tos based on the food you love and the friends you follow. Get the best recipes & how to content from Elana's Recipes.</p>",
 
-  reviews:
-    "<h1>Reviews</h1> <p>Possimus labore, officia dolore! Eaque ratione saepe, alias harum laboriosam deserunt laudantium blanditiis eum explicabo placeat reiciendis labore iste sint. Consectetur expedita dignissimos, non quos distinctio, eos rerum facilis eligendi.<p>",
+  reviews: "<h1>Reviews</h1> <p>Write reviews and add rating of recipies.<p>",
 
-  delivery:
-    "<h1>Delivery</h1> <p>Possimus labore, officia dolore! Eaque ratione saepe, alias harum laboriosam deserunt laudantium blanditiis eum explicabo placeat reiciendis labore iste sint. Consectetur expedita dignissimos, non quos distinctio, eos rerum facilis eligendi.</p>",
+  delivery: "<h1>Delivery</h1> <p>We deliver. Nobody bits our chef</p>",
 };
