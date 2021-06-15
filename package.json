@@ -1,0 +1,25 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ek2039/homework.git"
+  },
+  "author": "Elana Korngold",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ek2039/homework/issues"
+  },
+  "homepage": "https://github.com/ek2039/homework#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.14"
+  },
+  "scripts": {
+    "start": "browser-sync start --port 1234 --server   --files "
+  },
+  "devDependencies": {
+    "prettier": "^2.3.1"
+  }
+}
