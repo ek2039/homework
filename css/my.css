@@ -74,6 +74,14 @@ a.active {
     width: 100%;
   }
   .content {
+    margin: 20rem;
     padding: 3rem;
   }
+}
+
+.content h1 {
+  text-align: center;
+}
+.content p {
+  margin: 20px;
 }
